@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: ggml
+message: >-
+  The one canonical ggml source tree of the Weftspun workspace (RFD 2188),
+  branch weftspun-consolidated, supplied to every consumer through the goal
+  manifest and to the Godot fork's modules/ggml. Upstream is ggml-org/ggml.
+type: software
+authors:
+  - name: The ggml authors
+license: MIT
+repository-code: https://github.com/ggml-org/ggml
+url: https://github.com/v-sekai-fabric/ggml
+version: weftspun-consolidated
+date-accessed: "2026-09-08"
